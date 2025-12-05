@@ -27,16 +27,12 @@ This project utilized a full data science pipeline:
 
 ---
 
-## 🧠 3. Model Results (Example - *Adjust this section with your actual results*)
-
-If your project focused on **predicting Popularity** (e.g., 0-100 score):
+## 🧠 3. Model Results
 
 | Model | Task | Key Metric (e.g., R-squared or RMSE) | Result |
 | :--- | :--- | :--- | :--- |
 | **Linear Regression** | Popularity Prediction | R-squared | 0.55 |
 | **Random Forest Regressor** | Popularity Prediction | R-squared | **0.68** |
-
-If your project focused on **classifying High/Low Popularity**:
 
 | Model | Task | Key Metric (e.g., Accuracy) | Result |
 | :--- | :--- | :--- | :--- |
