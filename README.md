@@ -27,20 +27,6 @@ This project utilized a full data science pipeline:
 
 ---
 
-## 🧠 3. Model Results
-
-| Model | Task | Key Metric (e.g., R-squared or RMSE) | Result |
-| :--- | :--- | :--- | :--- |
-| **Linear Regression** | Popularity Prediction | R-squared | 0.55 |
-| **Random Forest Regressor** | Popularity Prediction | R-squared | **0.68** |
-
-| Model | Task | Key Metric (e.g., Accuracy) | Result |
-| :--- | :--- | :--- | :--- |
-| **Logistic Regression** | High/Low Popularity | Accuracy | 78.5% |
-| **Support Vector Machine (SVM)** | High/Low Popularity | Accuracy | **81.2%** |
-
----
-
 ## 🛠️ 4. Technologies Used
 
 * **Python 3.x**
